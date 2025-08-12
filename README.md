@@ -30,6 +30,7 @@ This is a submission for [Mumbai Hacks 2024](https://mumbaihacks.com), the large
 - Smart lead scoring and qualification
 - Automated message generation
 - Engagement tracking and analytics
+- Note: It uses your X API keys to function
 
 ### 🔄 A/B Testing
 - Sophisticated campaign testing
